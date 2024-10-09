@@ -1,0 +1,19 @@
+img {
+    height: 5cm;
+    width: 8cm;
+}
+
+p {
+    font-size: 40px;
+}
+
+li{
+    font-size: 20px;
+    padding: 10px; /* Espaciado interno para cada elemento */
+    cursor: pointer; /* Cambia el cursor a puntero al pasar el mouse */
+}
+
+li:hover{
+    color: chartreuse;
+}
+
